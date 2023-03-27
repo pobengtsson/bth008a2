@@ -1,2 +1,3 @@
 # bth008a2
-Repo needed for assignment 2
+
+This file is to be added to the Docker image you build as part A in Assignment 2.
